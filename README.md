@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fr4dToo
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding/Making games
 - 🌱 I’m currently learning Python (Renpy)/C# (Unity)
 - 💞️ I’m looking to collaborate on making games
 - 📫 How to reach me Frederiktik#5759
